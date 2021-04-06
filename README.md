@@ -7,3 +7,6 @@ The input data includes:
 
 
 This program in notebook_code.ipynb ingests the labeled social media data: Tweets and employs the tweets to build a model to predict traffic accident. 
+
+The post is in 
+https://zhenhuaz.medium.com/potentials-of-using-social-media-to-predict-traffic-accident-9147cc25790e
